@@ -3,8 +3,20 @@
  background-color: rgb(245, 195, 241) ;
  font-family: verdana, sans-serif;
 }
+
 .number-3 {
     background-color: rgb(245, 195, 241) ;
     font-size: 24px;
     font-family: verdana, sans-serif;
+}
+
+#number2 {
+    color: rgb(54, 26, 218);
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: rgb(113, 228, 113);
+    font-size: 24px;
+    font-weight: bold;
 }
