@@ -1,21 +1,18 @@
-.number-1, 
-.number-5 {
- background-color: rgb(245, 195, 241) ;
- font-family: verdana, sans-serif;
-}
-
-.number-3 {
+.number {
     background-color: rgb(245, 195, 241) ;
-    font-size: 24px;
-    font-family: verdana, sans-serif;
+    font-family: verdana, "DejaVu Sans", sans-serif;
 }
 
-#number2 {
+.cooler {
+    font-size: 24px;
+}
+
+#two {
     color: rgb(54, 26, 218);
     font-size: 36px;
 }
 
-#number4 {
+#four {
     background-color: rgb(113, 228, 113);
     font-size: 24px;
     font-weight: bold;
