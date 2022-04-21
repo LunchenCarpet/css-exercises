@@ -1,0 +1,11 @@
+.click {
+    color: #ffffff;
+    background-color: #000000;
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+
+}
+
+.click.no {
+    background-color: #ffff00;
+}
